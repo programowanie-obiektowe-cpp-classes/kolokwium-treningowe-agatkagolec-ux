@@ -12,7 +12,7 @@ mkdir build
 cd build
 ```
 
-Drzewo projektu wygląda teraz następująco:
+Drzewo projektu wygląda teraz następująco: 
 
 ```
 kolokwium
